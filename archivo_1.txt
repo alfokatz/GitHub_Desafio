@@ -1,1 +1,4 @@
 Hola archivo 1
+
+Cosas locas
+Pero para el archivo 1 :D
