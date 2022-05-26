@@ -1,1 +1,4 @@
 Hola archivo 1
+adios archivo 1
+otro par de lineas
+cual es tu comida favorita?
